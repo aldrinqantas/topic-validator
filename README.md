@@ -53,3 +53,6 @@ After installing node, this project will need NPM too, so just run the following
 ## Running test project
 
     $ npm run test
+
+<img width="1627" alt="Screen Shot 2023-04-04 at 2 51 26 pm" src="https://user-images.githubusercontent.com/124645540/229690034-f614ff2a-3d4c-4e23-8f2d-a5e15ee3e147.png">
+
