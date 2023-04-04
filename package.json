@@ -1,0 +1,26 @@
+{
+  "name": "topic-validator",
+  "version": "1.0.0",
+  "description": "topic validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrinqantas/topic-validator.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "Aldrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldrinqantas/topic-validator/issues"
+  },
+  "homepage": "https://github.com/aldrinqantas/topic-validator#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
